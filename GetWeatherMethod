@@ -11,4 +11,4 @@ http://wthrcdn.etouch.cn/weather_mini?citykey=101010100
 
 
 aqicn:
-token=0c71a0d97e6d85f9bd87b82b6dd4044fa418f849
+http://api.waqi.info/feed/wuxi/?token=0c71a0d97e6d85f9bd87b82b6dd4044fa418f849
